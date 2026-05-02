@@ -1,5 +1,3 @@
-<<<<<<< HEAD
- 
 import torch
 from open_mythos import OpenMythos, mythos_1b  # Original from fork
 
